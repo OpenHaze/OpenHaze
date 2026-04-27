@@ -1,6 +1,6 @@
 # 🌫️ OpenHaze
 
-**Together we are noise. / Juntos somos ruido.**
+**Together we are noise / Juntos somos ruido**
 
 ---
 
