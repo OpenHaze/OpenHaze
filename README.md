@@ -240,21 +240,3 @@ El código es completamente público y auditable. Está explícitamente prohibid
 Cualquiera puede leer este código.  
 No cualquiera puede usarlo.
 
----
-
-## ¿Por qué open source si el "adversario" puede leerlo?
-
-Porque la ventaja de OpenHaze no está en el secreto del algoritmo.  
-Está en la velocidad de adaptación colectiva.
-
-Cada vez que un sistema de vigilancia actualiza sus contramedidas, cientos de contribuidores responden.  
-Eso no se replica con código cerrado.
-
-La transparencia no es una debilidad. Es la estrategia.
-
----
-
-_OpenHaze es un concepto. No tiene inversores, no tiene roadmap, no tiene garantías._  
-_Solo una idea que quizás vale la pena construir juntos._
-
-**→ Empezá acá: abrí un Issue y decinos qué pensás.**
