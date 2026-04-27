@@ -1,6 +1,6 @@
 # 🌫️ OpenHaze
 
-**Graph noise for the people. Niebla en el grafo, para todos.**
+**Together we are noise. / Juntos somos ruido.**
 
 ---
 
